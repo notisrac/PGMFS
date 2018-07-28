@@ -106,3 +106,6 @@ unsigned int bytesCopied = PROGMEMFileSystem.copyFile(requestedFile, targetBuffe
 
 ### Example
 *See the PGMFSExample.pde file in the examples folder!*
+
+
+[![Analytics](https://ga-beacon.appspot.com/UA-122950438-1/PGMFS)](https://github.com/igrigorik/ga-beacon)
